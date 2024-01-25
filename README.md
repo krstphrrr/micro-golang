@@ -7,6 +7,6 @@
 
 ## todo:
 
-- add user to group in pool
-- listusers in group (there's a function in the sdk)
-- list groups in pool
+- DONE add user to group in pool
+- DONE listusers in group (there's a function in the sdk)
+- DONE list groups in pool
